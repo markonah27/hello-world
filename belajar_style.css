@@ -1,0 +1,16 @@
+body {
+	color: "blue";
+	font-size: 30px;
+}
+
+.button-merah {
+	color: red;
+}
+
+.button-biru {
+	color: blue;
+}
+
+.button-hijau {
+	color: green;
+}
